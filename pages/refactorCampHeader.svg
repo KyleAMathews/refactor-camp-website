@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="93"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="refactorCampHeader.svg"
+   inkscape:export-filename="C:\Users\venkat\Dropbox\Ribbonfarm\refactorCamp\Website\refactorCampHeader.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2559406"
+     inkscape:cx="295.48313"
+     inkscape:cy="61.004544"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3797">
+      <stop
+         id="stop3799"
+         offset="0"
+         style="stop-color:#e9afaf;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e9afaf;stop-opacity:0.49803922;"
+         offset="0.60369682"
+         id="stop3805" />
+      <stop
+         id="stop3801"
+         offset="1"
+         style="stop-color:#e9afaf;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         id="stop3757"
+         offset="0"
+         style="stop-color:#c7caf2;stop-opacity:1;" />
+      <stop
+         id="stop3759"
+         offset="1"
+         style="stop-color:#c7caf2;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       spreadMethod="pad"
+       gradientTransform="translate(-314.72247,-1809.3664)"
+       gradientUnits="userSpaceOnUse"
+       y2="902.88318"
+       x2="314.72244"
+       y1="902.88318"
+       x1="0"
+       id="linearGradient3761"
+       xlink:href="#linearGradient3755"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-314.72246,-1811.7664)"
+       gradientUnits="userSpaceOnUse"
+       y2="902.88318"
+       x2="314.72244"
+       y1="902.88318"
+       x1="0"
+       id="linearGradient3761-2"
+       xlink:href="#linearGradient3755-2"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3755-2">
+      <stop
+         id="stop3757-5"
+         offset="0"
+         style="stop-color:#c7caf2;stop-opacity:1;" />
+      <stop
+         id="stop3759-1"
+         offset="1"
+         style="stop-color:#c7caf2;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       spreadMethod="repeat"
+       gradientTransform="translate(-0.84450387,68.183668)"
+       gradientUnits="userSpaceOnUse"
+       y2="-938.07123"
+       x2="23.364902"
+       y1="-1082.2017"
+       x1="-312.1889"
+       id="linearGradient3803"
+       xlink:href="#linearGradient3797"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath226-63-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path228-7-4"
+         d="m 0,0 1080,0 0,864 L 0,864 0,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath226-63-8-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path228-7-4-4"
+         d="m 0,0 1080,0 0,864 L 0,864 0,0 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient3755-7">
+      <stop
+         id="stop3757-9"
+         offset="0"
+         style="stop-color:#c7caf2;stop-opacity:1;" />
+      <stop
+         id="stop3759-4"
+         offset="1"
+         style="stop-color:#c7caf2;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="902.88318"
+       x2="314.72244"
+       y1="902.88318"
+       x1="68.655624"
+       spreadMethod="pad"
+       gradientTransform="translate(-314.72247,-1809.3664)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient32879-4"
+       xlink:href="#linearGradient3755-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3755-0">
+      <stop
+         id="stop3757-1"
+         offset="0"
+         style="stop-color:#c7caf2;stop-opacity:1;" />
+      <stop
+         id="stop3759-5"
+         offset="1"
+         style="stop-color:#c7caf2;stop-opacity:0;" />
+    </linearGradient>
+    <clipPath
+       id="clipPath226-63-8-7-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path228-7-4-4-1"
+         d="m 0,0 1080,0 0,864 L 0,864 0,0 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient3755-0-9">
+      <stop
+         id="stop3757-1-0"
+         offset="0"
+         style="stop-color:#c7caf2;stop-opacity:1;" />
+      <stop
+         id="stop3759-5-6"
+         offset="1"
+         style="stop-color:#c7caf2;stop-opacity:0;" />
+    </linearGradient>
+    <clipPath
+       id="clipPath226-63-8-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path228-7-4-2"
+         d="m 0,0 1080,0 0,864 L 0,864 0,0 z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(78.752228,-2901.5747)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="matrix(0.98778534,0.15582081,-0.15582081,0.98778534,0,0)"
+       sodipodi:linespacing="125%"
+       id="text3851-6-0"
+       y="1054.9661"
+       x="402.16907"
+       style="font-size:45.0701828px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'"
+       xml:space="preserve"><tspan
+         style="font-size:45.0701828px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;font-family:Universalis ADF Std;-inkscape-font-specification:Universalis ADF Std Bold"
+         y="1054.9661"
+         x="402.16907"
+         id="tspan3853-9-2"
+         sodipodi:role="line" /></text>
+    <g
+       style="fill:#2b0000;fill-opacity:1"
+       id="g29911-0-1-6-2-8-4-0-2"
+       transform="matrix(1.0999169,0,0,1.0999169,45.992239,519.7418)">
+      <g
+         transform="matrix(0.9999982,0.00189639,-0.00189639,0.9999982,0,0)"
+         style="font-size:49.09347153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;stroke:none;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'"
+         id="text3851-69-5-2-7-9-9-8-4-8" />
+    </g>
+    <g
+       style="fill:#2b1a00;fill-opacity:1"
+       id="g29911-0-1-6-2-8-4-0-3-0-5"
+       transform="matrix(1.0606225,0,0,1.0606225,59.061389,979.0347)">
+      <g
+         transform="matrix(0.9999982,0.00189639,-0.00189639,0.9999982,0,0)"
+         style="font-size:49.09347153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b1a00;stroke:none;font-family:'10.15 Saturday Night BRK';-inkscape-font-specification:'10.15 Saturday Night BRK'"
+         id="text3851-69-5-2-7-9-9-8-4-6-0-9" />
+    </g>
+    <rect
+       style="opacity:0.70833332999999998;fill:#037803;fill-opacity:0.82843137;stroke:none;stroke-width:1.57064998000000000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3022"
+       width="167.13472"
+       height="82.735817"
+       x="-77.920662"
+       y="2903.8413" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-23.813326"
+       y="2952.3752"
+       id="text3024"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="-23.813326"
+         y="2952.3752"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">refact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#037903;fill-opacity:0.58823532;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="91.098412"
+       y="2952.0417"
+       id="text3024-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026-8"
+         x="91.098412"
+         y="2952.0417"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#037903;fill-opacity:0.58823532;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">or</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3950-6-6-6-4-3-3-8-5-1"
+       y="2982.1543"
+       x="94.292145"
+       style="font-size:15.66097450000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.69166667000000004;fill:#037903;fill-opacity:0.58823532;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.55833332999999996;fill:#037903;fill-opacity:0.58823532;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+         y="2982.1543"
+         x="94.292145"
+         id="tspan3952-8-1-8-5-5-3-4-7-8"
+         sodipodi:role="line">Camp</tspan></text>
+  </g>
+</svg>

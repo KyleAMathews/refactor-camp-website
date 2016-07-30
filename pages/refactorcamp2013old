@@ -1,0 +1,73 @@
+<!doctype html>
+    <html lang="en">
+    <head>
+	<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px;}
+	</style>
+    <meta charset="utf-8"/>
+    <title>Refactor Camp</title>
+    <meta name="description" content="Unusual takes on familiar themes"/>
+    <meta name="author" content="Venkatesh Rao"/>
+    <!-- mobile viewport optimisation -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="yaml/core/base.css" type="text/css"/>
+    <link rel="stylesheet" href="styles.css" type="text/css"/>
+    <!--[if lte IE 7]>
+    <link rel="stylesheet" href="iehacks.min.css" type="text/css"/>
+    <![endif]-->
+    </head>
+    <body>
+		<div class="page">
+			<div class="container">
+				<div class="main">
+					<header><img src="refactorCampHeader.png"></header>
+					<h6> Home | <a href="refactorcamp2012.html">Refactor Camp 2012 </a> | <a href="refactorcamp2013.html">Refactor Camp 2013 </a> |<a href="meetups.html"> Meetups </a>  </h6>					<hr></hr>
+					<h5>"Jailbreaking the Bay Area"</h6>
+					<p><i>Pictures and a round-up will eventually be posted. In the meantime, you can find the slides from the talks <a href="http://www.slideshare.net/vgururao/">here</a>. </i></p>
+					<p>The broad goal of Refactor Camp 2013 was to think about how the concept of "jailbreaking" (as in iPhones) can be productively applied to a metropolitan region with a "walled garden" culture. We focused on the Bay Area, but generated interesting ideas applicable to disruptive "civic entrepreneurship" in any urban area.</p>
+					<div class="grouper">
+					<div class="picture-left-narrow">
+							<p><a href="http://www.sfzoo.org/plan-directions">Directions to Zoo</a></p>
+							<p><a href="SpeakerInstructions.pdf">Speaker Instructions</a></p>
+							<p><a href="RefactorCamp13Agenda.pdf">Detailed Program</a></p>
+							<p><a href="http://refactorcamp2013.eventbrite.com/">Register</a></p>
+						</div>
+						<div class="important-right">
+							<h3>Agenda</h3>
+							<p><i><strong>Note:</strong> Speaker affiliations are listed below are for biographical context only. Speakers will be attending Refactor Camp in their personal capacity, and any views they express will not necesarily represent the views of the organizations they are affiliated with. </i></p>
+							<h4>Saturday, March 2</h4>
+							<ul>
+								<li>8:30 - 9:00: Warm up and opening remarks (Nick Pinkston and Venkatesh Rao)</li>
+								<li>9:00 - 10:00: Bay Area Housing Policy: The State of Play (David Chudzicki, Kaggle)</li>
+								<li>10:00 - 11:00: Behind the Urban Interface: Hacking vs. Building (Drew Austin,  Uber) </li>
+								<li>11:00 - 11:15: Break</li>
+								<li>11:15 - 12:15: Configuring the Perfect City: (Jason Ho, Founder, Clockspot)</li>
+								<li>12:15 - 1:00: Lunch</li>
+								<li>1:00 - 3:00 Back to the Land Simulation (Mark Maxham, Xeralux)</li>
+								<li>3:00 - 3:15: Break and head outside (be prepared for weather) </li>
+								<li>3:15 - 4:45: Urban photographic scavenger hunt (Megan L.)</li>
+								<li>4:45 - 5:00: Closing remarks and adjourn (dinner/drinks etc. for those interested) </li>
+							</ul>
+							<h4>Sunday, March 3</h4>
+							<ul>
+								<li>9:00 - 9:30: Warm up and Day 2 opening remarks (Steve Hoover, CEO, PARC)
+								<li>9:30 - 10:15: Hacking Immigration from a Cruise Ship (Sam Bhagwat, Dan Dascalescu, Blueseed)</li>
+								<li>10:15 - 11:00: Circles of Hell in Software at Scale (Kartik Agaram, Google)</li>
+								<li>11:00 - 11:15: Break</li>
+								<li>11:15 - 12:00:  Educological Possibilities (Alec Resnick, Sprout, Inc.)</li>
+								<li>12:00 - 1:00: Lunch</li>
+								<li>1:00 - 3:00: Zoo time!</li>
+								<li>3:00 - 4:30: Open agenda time</li>
+								<li>4:30 - 5:00: Closing remarks (Andrea Kuszewski, The Linus Group) and wrap</li>
+							</ul>
+						</div>
+
+					</div>
+					<footer><div id="footer">Copyright &copy; <a href="http://ribbonfarm.com">Ribbonfarm, Inc. </a>2013</div></footer>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
