@@ -24,7 +24,7 @@ module.exports = React.createClass({
           <Link
             to={prefixLink("/")}
           >
-            <img src="refactorCampHeader.png" />
+            <img src="https://kyleamathews.github.io/refactor-camp-website/refactorCampHeader.png" />
           </Link>
           <h5>
             <Link

@@ -4,6 +4,7 @@ import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
 import { TypographyStyle, GoogleFont } from 'typography-react'
 import typography from './utils/typography'
+import config from 'config'
 
 const BUILD_TIME = new Date().getTime()
 
@@ -30,7 +31,7 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0 maximum-scale=1.0"
           />
-          <title>{title}</title>
+          <title>{config.siteTitle}</title>
           <link rel="shortcut icon" href={this.props.favicon} />
           <TypographyStyle typography={typography} />
           <GoogleFont typography={typography} />
