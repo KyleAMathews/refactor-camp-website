@@ -20,7 +20,7 @@ const options = {
 
 theme.overrideThemeStyles = ({ rhythm }, options) => ({
   'h1,h2,h3,h4,h5,h6': {
-    marginBottom: rhythm(1),
+    marginBottom: rhythm(1/2),
     marginTop: 0,
   }
 })
