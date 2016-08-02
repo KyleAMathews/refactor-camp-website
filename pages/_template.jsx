@@ -22,37 +22,35 @@ module.exports = React.createClass({
           }}
         >
           <Link
-            to={prefixLink("/")}
+            to={prefixLink('/')}
           >
-            <img src="https://kyleamathews.github.io/refactor-camp-website/refactorCampHeader.png" />
+            <img
+              alt="refactor camp logo"
+              src="https://kyleamathews.github.io/refactor-camp-website/refactorCampHeader.png"
+              height={93}
+            />
           </Link>
           <h5>
             <Link
-              to={prefixLink("/")}
+              to={prefixLink('/')}
             >
               Home
             </Link>
             {' '}|{' '}
             <Link
-              to={prefixLink("/refactorcamp2014/")}
+              to={prefixLink('/refactorcamp2016/')}
             >
-              Refactor Camp 2014
+              Refactor Camp 2016
             </Link>
             {' '}|{' '}
             <Link
-              to={prefixLink("/refactorcamp2013/")}
+              to={prefixLink('/previous-years/')}
             >
-              Refactor Camp 2013
+              Previous Years
             </Link>
             {' '}|{' '}
             <Link
-              to={prefixLink("/refactorcamp2012/")}
-            >
-              Refactor Camp 2012
-            </Link>
-            {' '}|{' '}
-            <Link
-              to={prefixLink("/meetups/")}
+              to={prefixLink('/meetups/')}
             >
               Meetups
             </Link>
