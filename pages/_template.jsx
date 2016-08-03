@@ -57,6 +57,7 @@ module.exports = React.createClass({
           </h5>
           <hr />
           {this.props.children}
+          <hr />
           <footer><div id="footer">Copyright &copy; <a href="http://ribbonfarm.com">Ribbonfarm, Inc. </a>2016</div></footer>
         </Container>
       </div>
